@@ -1,4 +1,4 @@
-¡Hola! 👋 ¡Bienvenidos a mi perfil de GitHub! 😄
+# ¡Hola! 👋 ¡Bienvenidos a mi perfil de GitHub! 😄
 
 Soy un apasionado por la 🌐 tecnología y el 📚 aprendizaje constante. Me encanta aprender cosas nuevas y estar al tanto de las últimas tendencias en la industria. En mi tiempo libre, también me gusta practicar deporte🏀 y disfrutar de los videojuegos🎮 .
 
@@ -6,7 +6,7 @@ Actualmente, estoy enfocado en aprender más sobre el desarrollo de software💻
 
 Estoy emocionado 😄 de ser parte de la comunidad de GitHub y espero poder aprender de otros desarrolladores y contribuir con mi granito de arena en proyectos emocionantes.
 
-### Contacto 
+## Contacto 
 ¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres charlar! 😄 📩 
 
 
